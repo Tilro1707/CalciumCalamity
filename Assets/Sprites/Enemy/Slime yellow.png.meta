@@ -1,0 +1,2092 @@
+fileFormatVersion: 2
+guid: a997fe0d7c86e344da6c501bf953d0f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3953409150848030365
+    second: Slime yellow_0
+  - first:
+      213: 3722639865763070701
+    second: Slime yellow_1
+  - first:
+      213: 5579599407487579773
+    second: Slime yellow_2
+  - first:
+      213: 4556851149966582275
+    second: Slime yellow_3
+  - first:
+      213: -3166239020176744643
+    second: Slime yellow_4
+  - first:
+      213: -4291032177263448631
+    second: Slime yellow_5
+  - first:
+      213: -3093312508128950961
+    second: Slime yellow_6
+  - first:
+      213: 8160740519038524948
+    second: Slime yellow_7
+  - first:
+      213: 1139374763623724218
+    second: Slime yellow_8
+  - first:
+      213: -2418480553736758797
+    second: Slime yellow_9
+  - first:
+      213: 429899226976544589
+    second: Slime yellow_10
+  - first:
+      213: -8868663492077455939
+    second: Slime yellow_11
+  - first:
+      213: 5543680822730694671
+    second: Slime yellow_12
+  - first:
+      213: -2207267074379514694
+    second: Slime yellow_13
+  - first:
+      213: -4772266597917285188
+    second: Slime yellow_14
+  - first:
+      213: -298367300355658409
+    second: Slime yellow_15
+  - first:
+      213: -2639422348947727338
+    second: Slime yellow_16
+  - first:
+      213: 2347708910710000982
+    second: Slime yellow_17
+  - first:
+      213: 2073319663144017558
+    second: Slime yellow_18
+  - first:
+      213: -2452082868955931076
+    second: Slime yellow_19
+  - first:
+      213: 2209261701203094749
+    second: Slime yellow_20
+  - first:
+      213: -5574491405906308563
+    second: Slime yellow_21
+  - first:
+      213: 1854174705414093101
+    second: Slime yellow_22
+  - first:
+      213: 5796551245378906937
+    second: Slime yellow_23
+  - first:
+      213: 8860803573071161357
+    second: Slime yellow_24
+  - first:
+      213: 449199060354801209
+    second: Slime yellow_25
+  - first:
+      213: -6791165801121567347
+    second: Slime yellow_26
+  - first:
+      213: -5126217401131091876
+    second: Slime yellow_27
+  - first:
+      213: 1330356985391690774
+    second: Slime yellow_28
+  - first:
+      213: -4829241845801414635
+    second: Slime yellow_29
+  - first:
+      213: 8476381407066301181
+    second: Slime yellow_30
+  - first:
+      213: 8125440069783927013
+    second: Slime yellow_31
+  - first:
+      213: -8011107901675675640
+    second: Slime yellow_32
+  - first:
+      213: -5132417136357697902
+    second: Slime yellow_33
+  - first:
+      213: 1087926234208926290
+    second: Slime yellow_34
+  - first:
+      213: -7156847854134987767
+    second: Slime yellow_35
+  - first:
+      213: -8379923201187488142
+    second: Slime yellow_36
+  - first:
+      213: 4933714409024851872
+    second: Slime yellow_37
+  - first:
+      213: 2926988148540847354
+    second: Slime yellow_38
+  - first:
+      213: -2580545913447196814
+    second: Slime yellow_39
+  - first:
+      213: -3427800655379381185
+    second: Slime yellow_40
+  - first:
+      213: -5407713947265103033
+    second: Slime yellow_41
+  - first:
+      213: 2299124233875954281
+    second: Slime yellow_42
+  - first:
+      213: 1847589369414898385
+    second: Slime yellow_43
+  - first:
+      213: -3008907834284435129
+    second: Slime yellow_44
+  - first:
+      213: -8506322560360499303
+    second: Slime yellow_45
+  - first:
+      213: 1796025667537328951
+    second: Slime yellow_46
+  - first:
+      213: -6948960824524968461
+    second: Slime yellow_47
+  - first:
+      213: -5288049220916334661
+    second: Slime yellow_48
+  - first:
+      213: 2208782734386494840
+    second: Slime yellow_49
+  - first:
+      213: 6823372127054349228
+    second: Slime yellow_50
+  - first:
+      213: -4367896871241851699
+    second: Slime yellow_51
+  - first:
+      213: -6049208372458943333
+    second: Slime yellow_52
+  - first:
+      213: 1391275049692593889
+    second: Slime yellow_53
+  - first:
+      213: 637342202771248704
+    second: Slime yellow_54
+  - first:
+      213: -4332214844214827147
+    second: Slime yellow_55
+  - first:
+      213: 7718215761767078003
+    second: Slime yellow_56
+  - first:
+      213: -567454118973102089
+    second: Slime yellow_57
+  - first:
+      213: -4937234510478991894
+    second: Slime yellow_58
+  - first:
+      213: 5050968447324790056
+    second: Slime yellow_59
+  - first:
+      213: -934121723291020240
+    second: Slime yellow_60
+  - first:
+      213: 1710543846856537779
+    second: Slime yellow_61
+  - first:
+      213: -8244518451910342990
+    second: Slime yellow_62
+  - first:
+      213: -1546593134811529856
+    second: Slime yellow_63
+  - first:
+      213: 6513569861469553628
+    second: Slime yellow_64
+  - first:
+      213: -457404961789656156
+    second: Slime yellow_65
+  - first:
+      213: -6429645785355469804
+    second: Slime yellow_66
+  - first:
+      213: 2907224956646355687
+    second: Slime yellow_67
+  - first:
+      213: 5591336293487927440
+    second: Slime yellow_68
+  - first:
+      213: -6763922146121314254
+    second: Slime yellow_69
+  - first:
+      213: -6791401832735246355
+    second: Slime yellow_70
+  - first:
+      213: 2161344128852664790
+    second: Slime yellow_71
+  - first:
+      213: -1567541027932992147
+    second: Slime yellow_72
+  - first:
+      213: 2365453216293778299
+    second: Slime yellow_73
+  - first:
+      213: -3111680860258744975
+    second: Slime yellow_74
+  - first:
+      213: -7464754963959079609
+    second: Slime yellow_75
+  - first:
+      213: -1514860063853324047
+    second: Slime yellow_76
+  - first:
+      213: 7302472353624817974
+    second: Slime yellow_77
+  - first:
+      213: 8270010487335368359
+    second: Slime yellow_78
+  - first:
+      213: 5651537239846542731
+    second: Slime yellow_79
+  - first:
+      213: 2641905300893930609
+    second: Slime yellow_80
+  - first:
+      213: -3685116527471636273
+    second: Slime yellow_81
+  - first:
+      213: -8541530408337147693
+    second: Slime yellow_82
+  - first:
+      213: 3320993290566659057
+    second: Slime yellow_83
+  - first:
+      213: 1227498283290359085
+    second: Slime yellow_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime yellow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d040e8b83a9add44a241c4816393836
+      internalID: -1793957610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c40427c37c24b4d998aa0cd5b3fcc8
+      internalID: 1340055299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90521ec235b12f408542976f3b0464e
+      internalID: -1595280033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2219f59013dda764793c0982fcff8dde
+      internalID: 585345783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9e432b33ddae48ac8fcfb74c741f6
+      internalID: 1703477913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b6683a205a1c840acb2b9ea391c8f4
+      internalID: -1146571914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b9f73ef3a84a489b6734c3586941c
+      internalID: -1402493149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd41cbfa63bddf40a0dd56f401fc092
+      internalID: -1969159869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789121bb947d49449974be216ec993a5
+      internalID: -885028431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dac1ce3b576be45ad4ee4b2968dcac
+      internalID: -608044450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa2c1f913a23834f988aa62d22c8bdc
+      internalID: -1742983103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a065e76ff5c295d4699f1826f08debdf
+      internalID: -592346388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075d6fb3d7361d408280eb2b34b8eb9
+      internalID: -627978253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14199b497d716e345bba8e12adbf28fd
+      internalID: 179492065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1378816765176441b137c3696fc49a3
+      internalID: 799644322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d08161773eefd448dee289fad97c9e
+      internalID: 1665316355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a06090ebdc53547a248f71d77ae181
+      internalID: -707841486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c1d0149340d541872c10d604748e5
+      internalID: 1188532625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47344c32b257c4042b913f14fba851df
+      internalID: 460120514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882bd9713e1c05e4d8a21850bd8091d8
+      internalID: 284451137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0074a75c29ddec646b991000ae59059a
+      internalID: 882687942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f242371b6532e2428ab0e7990454c23
+      internalID: -775492109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e99f841af112b4d8b86d13464c8d06
+      internalID: 968386514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97ae132eeddea341ac76ee690b6853d
+      internalID: 202511836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba31fb0326f8ba4dad78c37895b0728
+      internalID: -813496476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4377c35f9aa3dfe438ce518b06ca7076
+      internalID: 1557937346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079a84c4ec94344d87e9e0aec3b702d
+      internalID: 1081348570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8572c3934800a4cbcb4a0a5e590094
+      internalID: -1444027957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c50afff0db38e45b457cec961332de
+      internalID: 172301609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd81e100d34709a49b9d575414bf3c4b
+      internalID: 1701246165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d184773e09515e147acd5fbf1b511823
+      internalID: 94360187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05a00cc8e736147b25fa076b39d5e8
+      internalID: -272752009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984c99991367d54baa2f7250a8662d0
+      internalID: 1678420719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf55082972ad2849951200682d1e288
+      internalID: -367905526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4736641bb3458e84bb6afcf0ff79a81c
+      internalID: 743391671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df01d91ea2611a4ca6288e5e386a8cd
+      internalID: -1417460927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95f97b09a1a3c74380eb5aee5ffc2bf
+      internalID: -83331741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e6d9d60ac947241b6b6373544f480e
+      internalID: -264039157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e673cbd2fc06149a06f5c22e766b73
+      internalID: 1089908398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a089cf1e5f5df4c4a8ae8e6be9653eed
+      internalID: 2079915795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5ab4b04fc4874398c41a3eb0ccf17
+      internalID: -2101968047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1099a0ee3b2adf479d7cd5925c6a200
+      internalID: 1275331403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a800a5d8a8d6b48a50d4cda47352cb
+      internalID: -1802964214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023d62fb9815c584ca1f648047edb1a0
+      internalID: -831981807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58292e15d9bcbcf479cd239aa53f206e
+      internalID: -1399479643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4e9663aa1012045964a044ecd1e25a
+      internalID: -367698537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed69d0f9a40e3d44ac5eee74362b966
+      internalID: -432798847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad3331d04b16f4bb16358c18b9fc25
+      internalID: 926991483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8934d896822b0e428564032df7fbafe
+      internalID: -1492083312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae600330a35219546aca08c8f1935792
+      internalID: 1893251545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419596b0acf6f6747bef8972c45cef7f
+      internalID: -646373887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7706c87b93a089b40b8b833eabac7cea
+      internalID: -894180152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf60d4890e5dde44b8a486a399d2bbdb
+      internalID: -1137492767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48fad248bc681479074641e793aac7
+      internalID: 1277584593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6fe0499b6cac40a01e0aa32382d45
+      internalID: -220181376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d6fead27efa9d4fa89515cfd2df5b0
+      internalID: -1186231215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845489e361bf6b6498d0ed4dbee0ddd2
+      internalID: -457855480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_59
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef010d22acd0945b0d83a8d54f9746
+      internalID: -1775783900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355988c356f708e45a72d0748655a7d3
+      internalID: -1457375701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaf2832e5449a24aa8e918ef82b1294
+      internalID: 1718012799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a8e09ee1c56b649b4124fb783d4dcf
+      internalID: 422844776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf09a292f65ed04f8e0c17f3964259b
+      internalID: 442508510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ff02cad8f549a4289aa378dc789721
+      internalID: 1587667848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf5ee0409ea9b479dbf9e26f8d065b
+      internalID: -695744224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d821eff475f2c0a44bf8a618a5ba3248
+      internalID: -1932680848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ebefc650fcda147a7d24cb0c9f0a9e
+      internalID: 1066931103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a2846240a5ed34c89f52e22f5259c6
+      internalID: -377043240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56418b77bc4a24e4ba1447bbecadfb4b
+      internalID: -747985285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae4110c3d2916843a8b4f9a4108deef
+      internalID: 727516774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2853388b827fa5240b811e504157bff9
+      internalID: 212399206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546681d5f17d50547a679d51071e2091
+      internalID: -1554596771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bbf5350ff4b1c4b9739411fd4fb711
+      internalID: -1818066658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcbea1891edd6f49929d8af7bf5022e
+      internalID: 47013293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime yellow_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4928416, y: 0.3496736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6551dbaab3836f54d8e6516c06319c81
+      internalID: -201776292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 07261b9ee140caf4ba57c137b3813baf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.49284160137176516,"y":0.3496735990047455},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Slime yellow_0: -1793957610
+      Slime yellow_1: 1340055299
+      Slime yellow_10: -1742983103
+      Slime yellow_11: -592346388
+      Slime yellow_12: -627978253
+      Slime yellow_13: 179492065
+      Slime yellow_14: 799644322
+      Slime yellow_15: 1665316355
+      Slime yellow_16: -707841486
+      Slime yellow_17: 1188532625
+      Slime yellow_18: 460120514
+      Slime yellow_19: 284451137
+      Slime yellow_2: -1595280033
+      Slime yellow_20: 882687942
+      Slime yellow_21: -775492109
+      Slime yellow_22: 968386514
+      Slime yellow_23: 202511836
+      Slime yellow_24: -813496476
+      Slime yellow_25: 1557937346
+      Slime yellow_26: 1081348570
+      Slime yellow_27: -1444027957
+      Slime yellow_28: 172301609
+      Slime yellow_29: 1701246165
+      Slime yellow_3: 585345783
+      Slime yellow_30: 94360187
+      Slime yellow_31: -272752009
+      Slime yellow_32: 1678420719
+      Slime yellow_33: -367905526
+      Slime yellow_34: 743391671
+      Slime yellow_35: -1417460927
+      Slime yellow_36: -83331741
+      Slime yellow_37: -264039157
+      Slime yellow_38: 1089908398
+      Slime yellow_39: 2079915795
+      Slime yellow_4: 1703477913
+      Slime yellow_40: -2101968047
+      Slime yellow_41: 1275331403
+      Slime yellow_42: -1802964214
+      Slime yellow_43: -831981807
+      Slime yellow_44: -1399479643
+      Slime yellow_45: -367698537
+      Slime yellow_46: -432798847
+      Slime yellow_47: 926991483
+      Slime yellow_48: -1492083312
+      Slime yellow_49: 1893251545
+      Slime yellow_5: -1146571914
+      Slime yellow_50: -646373887
+      Slime yellow_51: -1196586764
+      Slime yellow_52: 1004832103
+      Slime yellow_53: -894180152
+      Slime yellow_54: -1137492767
+      Slime yellow_55: 1277584593
+      Slime yellow_56: -220181376
+      Slime yellow_57: -1186231215
+      Slime yellow_58: -457855480
+      Slime yellow_59: -1775783900
+      Slime yellow_6: -1402493149
+      Slime yellow_60: -1457375701
+      Slime yellow_61: 1718012799
+      Slime yellow_62: 422844776
+      Slime yellow_63: 442508510
+      Slime yellow_64: 1587667848
+      Slime yellow_65: -695744224
+      Slime yellow_66: -1864397052
+      Slime yellow_67: 1986894098
+      Slime yellow_68: -510292851
+      Slime yellow_69: 62355082
+      Slime yellow_7: -1969159869
+      Slime yellow_70: -1932680848
+      Slime yellow_71: 1066931103
+      Slime yellow_72: -377043240
+      Slime yellow_73: -747985285
+      Slime yellow_74: 727516774
+      Slime yellow_75: 212399206
+      Slime yellow_76: -1200824849
+      Slime yellow_77: 1521325932
+      Slime yellow_78: 405356348
+      Slime yellow_79: 1008432886
+      Slime yellow_8: -885028431
+      Slime yellow_80: -1554596771
+      Slime yellow_81: -1818066658
+      Slime yellow_82: 47013293
+      Slime yellow_83: -201776292
+      Slime yellow_84: 202399878
+      Slime yellow_85: -210191797
+      Slime yellow_86: 96350330
+      Slime yellow_87: -1176252441
+      Slime yellow_88: -1374434496
+      Slime yellow_89: 108166243
+      Slime yellow_9: -608044450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
